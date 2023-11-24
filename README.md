@@ -17,4 +17,4 @@ Fashion — это современный интернет-магазин, пр�
   <img src="/src/images/scr/3.png" alt="3">
 </p>
 
-[Ссылка на макет] (https://www.figma.com/file/2fTZFR780nIYSjJAkBf6Cl/Shopping-Website-(Community)---Update-(Copy)?node-id=2%3A426&mode=dev)
+[Ссылка на макет](https://www.figma.com/file/2fTZFR780nIYSjJAkBf6Cl/Shopping-Website-(Community)---Update-(Copy)?node-id=2%3A426&mode=dev)
