@@ -46,9 +46,9 @@
     gap: 14px;
 }
 
-.footer__social-link-icon {
+/* .footer__social-link-icon {
     
-}
+} */
 .footer__social-link-icon:hover {
     opacity: .8;
     cursor: pointer;
