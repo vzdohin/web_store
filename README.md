@@ -7,7 +7,12 @@ Fashion — это современный интернет-магазин, пр�
 - HTML/CSS/JavaScript
 
 ## Скриншот
-![1](/src/images/scr/2.png)
-![2](/src/images/scr/1.png)
-![3](/src/images/scr/3.png)
-
+<p align="center">
+  <img src="/src/images/scr/2.png" alt="1">
+</p>
+<p align="center">
+  <img src="/src/images/scr/1.png" alt="2">
+</p>
+<p align="center">
+  <img src="/src/images/scr/3.png" alt="3">
+</p>
