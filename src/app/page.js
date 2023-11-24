@@ -7,7 +7,6 @@ import Payday from '@/components/payday/Payday'
 import Favourite from '@/components/favourite/Favourite'
 import Phone from '@/components/phone/Phone'
 import Accession from '@/components/accession/Accession'
-import Footer from '@/components/footer/Footer'
 
 export default function Home() {
   return (
@@ -19,7 +18,6 @@ export default function Home() {
       <Favourite />
       <Phone />
       <Accession />
-      <Footer />
     </main>
   )
 }
