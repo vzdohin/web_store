@@ -6,7 +6,7 @@ Fashion — это современный интернет-магазин, пр�
 ## Технологии
 - HTML/CSS/JavaScript
 
-## Скриншот
+## Screenshots
 <p align="center">
   <img src="/src/images/scr/2.png" alt="1">
 </p>
