@@ -1,0 +1,138 @@
+.payday {
+    margin-bottom: 63px;
+
+}
+
+.container {
+    max-width: 1720px;
+    /* background: linear-gradient(1deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%); */
+
+    margin: auto;
+
+}
+
+.payday__content {
+    /* background-color: #F4F6F5; */
+    display: flex;
+    /* column-gap: 24px; */
+    height: 968px;
+    /* padding-left: 120px;
+    padding-top: 68px; */
+    background: linear-gradient(1deg, #E0C340 0.13%, #DFC23E 3.97%, #E1C441 7.2%, #E3C743 10.13%, #E4C542 12.98%, #E6C744 15.99%, #E7C845 19.52%, #E5C643 23.96%, #E6C945 30.43%, #E3C743 36.49%, #E9CA48 42.49%, #EDCE49 49.35%, #F0D44C 55.42%, #F4D84F 61.43%, #F6DA52 65.74%, #F7DB53 72.23%, #F9DD55 77.43%, #F9DF56 83.84%, #FAE157 91.52%, #F9DF56 97.87%);
+}
+
+.payday__title {
+    margin-top: 140px;
+    margin-bottom: 33px;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120px;
+    max-width: 600px;
+
+}
+
+.payday__text {
+    /* padding-left: -5px; */
+}
+
+.payday__desc {
+    color: #231300;
+    max-width: 650px;
+    font-size: 36.04px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 52.316px;
+    /* 145.161% */
+    letter-spacing: -0.721px;
+}
+
+.payday__btn {
+    width: 221px;
+    height: 82px;
+    border-radius: 10px;
+    background: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -1.5px;
+    color: white;
+    border: none;
+}
+.payday__btn:hover {
+    opacity: .8;
+    cursor: pointer;
+}
+
+.payday__btn-wrapper {
+    border: none;
+    background: none;
+    align-items: center;
+
+}
+
+/* .payday__btn-wrapper::before {
+    content: '';
+    display: inline-block;
+    width: 190px;
+    height: 32px;
+    background-image: url(../../images/payday_ye.svg);
+    margin-right: 34px;
+} */
+
+.highight {
+    position: relative;
+    display: inline-block;
+
+}
+
+.highight span {
+    position: relative;
+}
+
+.highight::before {
+    content: '';
+    display: block;
+    position: absolute;
+    top: -12px;
+    bottom: -12px;
+    left: -20px;
+    right: -60px;
+    background-color: white;
+    transform: rotate(-2deg);
+    width: 440px;
+    height: 112px;
+}
+
+/* .highight_yellow::before {
+    background-color: #EBD96B;
+    width: 495px;
+    height: 118px;
+} */
+
+.payday__img {
+    /* height: 784px; */
+    width: 992px;
+    object-fit: cover
+}
+
+.payday__weight {
+    display: block;
+    margin-top: 40px;
+    font-size: 36.04px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52.316px;
+    letter-spacing: 0.721px;
+
+}
+
+.payday__desc-term {
+    font-size: 36.04px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 52.316px;
+    letter-spacing: -0.721p;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,35 @@
+.favourite {
+    margin-top: 120px;
+    margin-bottom: 200px;
+}
+.favourite__container{
+    max-width: 1720px;
+    margin:  0 auto;
+}
+.favourite__header{
+    display: inline-block;
+    position: relative;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50px; /* 104.167% */
+    letter-spacing: 2.88px;
+    margin-bottom: 100px;
+}
+.favourite__header::after{
+    content: '';
+    position: absolute;
+    z-index: -1;
+    right: 0px;
+    bottom: 0px;
+    width: 190px;
+    height: 32px;
+    background-image: url('../../images/arri1.png');
+    background-repeat: no-repeat;
+    
+}
+.favourite__cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 48px;
+}

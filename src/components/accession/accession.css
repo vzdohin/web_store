@@ -1,0 +1,93 @@
+.accession {
+    width: 1920px;
+    height: 623px;
+    background: #E5C643;
+    margin: auto;
+}
+
+.accession__title {
+    color: #FFF;
+    text-align: center;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 70px;
+    letter-spacing: 1.65px;
+    max-width: 970px;
+    padding-top: 140px;
+    margin: 0 auto 37px;
+}
+
+.accession__desc {
+    color: #FFFCF8;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.96px;
+}
+
+.accession__form {
+    display: flex;
+    width: 574px;
+    height: 87px;
+    align-items: center;
+    background-color: #FFF;
+    border-radius: 10px;
+    margin: 50px auto 0;
+
+}
+
+.accession__input {
+    width: 574px;
+    height: 87px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.72px;
+}
+
+.accession__input:focus {
+    outline: none;
+    padding-left: 15px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.72px;
+}
+
+.accession__input::placeholder {
+    color: #767676;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0.72px;
+}
+
+.accession__btn {
+    color: #FFF;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: 0.99px;
+    text-transform: capitalize;
+    width: 161px;
+    height: 67px;
+    border-radius: 8px;
+    background: #000;
+    margin: 10px;
+    padding: 15px 35px;
+    border: none;
+}
+.accession__btn:hover {
+    opacity: .8;
+    cursor: pointer;
+}

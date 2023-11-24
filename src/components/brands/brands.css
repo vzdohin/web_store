@@ -1,0 +1,22 @@
+.brands {
+    width: 1920px;
+    background-color: #EBD96B;
+    margin: auto;
+    padding: 60px 0 55px;
+}
+
+.brands__container {
+    width: 1572px;
+    /* height: 186px; */
+    margin: auto;
+    display: flex;
+    column-gap: 120px;
+    align-items: center;
+    justify-content: center;
+}
+
+.brands__logo {
+    list-style-type: none;
+    background: none;
+    mix-blend-mode: multiply;
+}
